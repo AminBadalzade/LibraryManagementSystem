@@ -22,6 +22,7 @@ A simple **Library Management System** built with C# to manage books and members
 - Object-Oriented Programming (OOP) principles, including:
   - Classes
   - Inheritance
+  - Encapsulation
   - Interfaces
   - Abstract classes
 - Static methods for book count and availability management.
